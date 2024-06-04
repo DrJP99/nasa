@@ -1,0 +1,4 @@
+#! /bin/bash
+
+echo "SETTING UP DB"
+mysql -u root -proot -D nasa < db_setup.sql

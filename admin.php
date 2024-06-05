@@ -62,9 +62,9 @@
 				</div>
 				<div class="row">
 					<h1>Add news with JSON file</h1>
-					<form class="" action="json_news.php" method="POST">
-						<input type="file" name="json" value="SUBMIT" class="btn-login" accept=".json" > <br>
-						<input type="submit" name="" value="ADD">
+					<form class="" enctype="multipart/form-data" action="json_news.php" method="POST">
+						<input type="file" name="json" class="btn-login" accept=".json" > <br>
+						<input type="submit" name="submit" value="ADD">
 					</form>
 					<?php
 

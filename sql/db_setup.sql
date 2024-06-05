@@ -1,0 +1,18 @@
+CREATE DATABASE nasa;
+USE nasa;
+CREATE TABLE IF NOT EXISTS news (
+	newsid INT NOT NULL AUTO_INCREMENT,
+	title VARCHAR(100) NOT NULL,
+	content VARCHAR(1000) NOT NULL,
+	img VARCHAR(100) NOT NULL,
+	PRIMARY KEY (newsid)
+);
+CREATE TABLE IF NOT EXISTS login (
+	userid INT NOT NULL AUTO_INCREMENT,
+	username VARCHAR(10) NOT NULL,
+	password VARCHAR(20) NOT NULL,
+	PRIMARY KEY (userid),
+	CONSTRAINT UC_username UNIQUE (username)
+);
+INSERT INTO login (username, password)
+VALUES ('admin', 'abc123');

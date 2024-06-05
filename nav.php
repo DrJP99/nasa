@@ -41,7 +41,7 @@
 			</a>
 		</li>
 		<li class="nav-item">
-			<a href="#">
+			<a href="https://www.github.com/DrJP99" target="_blank" >
 				About
 			</a>
 		</li>
@@ -85,7 +85,7 @@
 			</a>
 		</li>
 		<li class="nav-item">
-			<a href="https://www.jp-dixon.com/s/e/c/r/e/t/" target="_blank">
+			<a href="#" target="_blank">
 				Space Tech
 			</a>
 		</li>

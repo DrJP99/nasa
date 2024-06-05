@@ -1,6 +1,21 @@
 {
     "news":[
         {
+            "title":"SpaceXs Next Starship Prototype Taking Shape",
+            "imgurl":"img/SpaceX-Starship_4d20.jpg",
+            "content":"Construction of the test craft is proceeding apace, as two new photos posted on Twitter today (Sept. 17) by company founder and CEO Elon Musk reveal."
+        },
+        {
+            "title":"NASAs Juno Mission Cheks Out Eclipse on Jupiter",
+            "imgurl":"img/Utrp9avtzvdee9UZyrxLVC-970-80.jpg",
+            "content":"All is well on our largest neighbor; NASAs Juno spacecraft just managed to spot the shadow of Jupiters moon, Io, passing over its marbled clouds."
+        },
+        {
+            "title":"Europe Wants Ideas for Cave-Spelumking Moon Robots",
+            "imgurl":"img/8X7AGzgNVb86gk9Sbn8xYo-1024-80.jpg",
+            "content":"As NASA makes a big push to land humans on the moons surface by 2024, the European Space Agency (ESA) wants to learn more about the lunar caves that lie beneath."
+        },
+        {
             "title":"Astronomers reveal strange clouds on fluffy alien planet WASP-127b",
             "imgurl":"img/C6wEMdn7rmJXXTA6h8Yzgb-1024-80.jpg",
             "content":"The atmosphere of an alien planet called WASP-127b has been observed in greater detail than ever before, surprising scientists taking a close look at the exoplanet."
